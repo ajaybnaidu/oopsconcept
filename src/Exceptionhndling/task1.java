@@ -36,7 +36,6 @@ public class task1 {
      Shape circle = new Circle(5);          
      Shape rectangle = new Rectangle(4, 6);
 
-     // Call area() for each shape
      System.out.println("Area of Circle: " + circle.area());
      System.out.println("Area of Rectangle: " + rectangle.area());
  }

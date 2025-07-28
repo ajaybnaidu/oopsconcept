@@ -1,7 +1,4 @@
 package threading;
-
-
-
 public class MyPrinterThread extends Thread {
  @Override
  public void run() {

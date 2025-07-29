@@ -2,7 +2,7 @@ package threading;
 import java.util.Random;
 class Racer extends Thread {
     public Racer(String name) {
-        super(name); // Set thread name
+        super(name); 
     }
 
     public void run() {

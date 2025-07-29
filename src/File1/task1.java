@@ -1,4 +1,4 @@
-package File1;
+package file1;
 
 public class task1 {
 
